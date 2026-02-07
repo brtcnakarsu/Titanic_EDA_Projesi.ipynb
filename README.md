@@ -1,15 +1,10 @@
-# Titanic_EDA_Projesi.ipynb
-Titanic - Machine Learning from Disaster
-
 # 🚢 Titanic - Exploratory Data Analysis (EDA)
-
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Library](https://img.shields.io/badge/Library-Pandas%20%7C%20Seaborn-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 📌 Proje Hakkında
 Bu proje, veri biliminin "Hello World"ü olarak kabul edilen meşhur **Titanic Veri Seti** üzerinde gerçekleştirilmiş bir Keşifçi Veri Analizi (Exploratory Data Analysis) çalışmasıdır.
-
 Analizin temel amacı; yolcuların demografik özelliklerini incelemek, hayatta kalma oranlarını etkileyen faktörleri (sınıf, cinsiyet, yaş vb.) görselleştirmek ve veri setindeki eksik bilgileri istatistiksel yaklaşımlarla temizlemektir.
 
 ## 📊 Kullanılan Teknolojiler
