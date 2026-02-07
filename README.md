@@ -40,7 +40,9 @@ Veri seti görselleştirildiğinde aşağıdaki içgörülere ulaşılmıştır:
 
 ## 📈 Örnek Grafikler
 
-*(Buraya çalışmandan 1-2 tane grafik ekran görüntüsü ekleyebilirsin. Örneğin: Hayatta kalma grafiği veya Boxplot)*
+<img width="571" height="455" alt="indir (1)" src="https://github.com/user-attachments/assets/f4d4b905-dcc0-4876-a94e-b8eb5aad2833" />
+<img width="695" height="470" alt="indir" src="https://github.com/user-attachments/assets/04db6576-c77e-4e25-9fc1-a34066ae594b" />
+
 
 ---
 
